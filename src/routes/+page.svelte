@@ -1,5 +1,5 @@
 <body class="font-sans">
-    <header class="bg-blue-950 rounded-b-3xl">
+    <header class="bg-blue-900 rounded-b-3xl">
         <div class="mx-20 text-white flex flex-row justify-between py-10"><!--first section-->
             <h1 class="text-2xl font-bold font-sans cursor-pointer">Learn <span class="text-orange-600">Web</span></h1>
             <div>
